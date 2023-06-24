@@ -1,4 +1,4 @@
-# IC-P---Icon-changer-Pumper
+# IC&P - Icon-changer-Pumper
 
 Смена иконки EXE / SCR файла и памп
 
