@@ -29,3 +29,5 @@
 
 ## Скачать
 https://github.com/Underneach/ICP---Icon-changer-Pumper/releases/tag/1.3
+
+    icp.exe и ResourceHacker.exe должны лежать в одной папку
