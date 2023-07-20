@@ -26,3 +26,6 @@
     for i in range(int(b_fSize / buffer)):
         pumpFile.write((b"0" * buffer))
     pumpFile.close()
+
+## Скачать
+https://github.com/Underneach/ICP---Icon-changer-Pumper/releases/tag/1.3
