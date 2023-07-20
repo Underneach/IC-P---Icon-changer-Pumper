@@ -28,4 +28,4 @@
     pumpFile.close()
 
 ## Скачать
-    https://github.com/Underneach/ICP---Icon-changer-Pumper/releases/tag/1.3
+https://github.com/Underneach/ICP---Icon-changer-Pumper/releases/tag/1.3
